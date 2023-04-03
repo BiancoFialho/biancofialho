@@ -19,7 +19,7 @@ Meu nome é Bianco Fialho e sou um entusiasta iniciante em programação e anál
 
 ## 📚 Projetos
 
-- [Projeto 1](https://github.com/BiancoFialho/projeto1): Descrição do projeto 1
+- [Projeto 1](https://github.com/BiancoFialho/projeto1): Bot Telegram - Auxiliar profissionais de SST (Segurança e Saúde do Trabalho)
 - [Projeto 2](https://github.com/BiancoFialho/projeto2): Descrição do projeto 2
 - [Projeto 3](https://github.com/BiancoFialho/projeto3): Descrição do projeto 3
 
