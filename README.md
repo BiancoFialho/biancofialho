@@ -2,9 +2,11 @@
 
 
 
-- 🔭 Recolocação  no mercado de trabalho;
+- 🔭 Recolocação no mercado de trabalho;
 - 🌱 Estou aprendendo JavaScrip;
+- 🐍 Python em análise de dados e projetos Bot Telegram;
 - 👯 Tentando colaborar com grupos de profissionais em Segurança do Trabalho;
-- 🤔 Procurando cursos na área ( de preferencia grátis 0800);
-- 💬 qualquer duvida é só perguntar;
+- 👁‍🗨 Procurando emprego para iniciantes; 
+- 💬 qualquer dúvida é só perguntar;
+
 
