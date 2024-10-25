@@ -7,7 +7,7 @@ Meu nome é Bianco Fialho e sou um entusiasta iniciante em programação e anál
 | Linguagens de programação | Bibliotecas de análise de dados | Banco de dados | Ferramentas de visualização de dados |
 | :-----------------------: | :------------------------------: | :-----------: | :----------------------------------: |
 |          Python           |       Pandas, NumPy, Matplotlib, Seaborn        |     MySQL     |              Tableau, Power BI               |
-|             R             |       Estátistica                |               |                                      |
+|             R             |       Estatística              |               |                                      |
 
 ## 🔍 Interesses
 
