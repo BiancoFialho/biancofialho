@@ -7,7 +7,7 @@ Meu nome é Bianco Fialho e sou um entusiasta iniciante em programação e anál
 | Linguagens de programação | Bibliotecas de análise de dados | Banco de dados | Ferramentas de visualização de dados |
 | :-----------------------: | :------------------------------: | :-----------: | :----------------------------------: |
 |          Python           |       Pandas, NumPy, Matplotlib, Seaborn        |     MySQL     |              Tableau, Power BI               |
-|             R             |                                  |               |                                      |
+|             R             |       Estátistica                |               |                                      |
 
 ## 🔍 Interesses
 
@@ -20,8 +20,8 @@ Meu nome é Bianco Fialho e sou um entusiasta iniciante em programação e anál
 ## 📚 Projetos
 
 - [Projeto 1](https://github.com/BiancoFialho/projeto1): Bot Telegram - Auxiliar profissionais de SST (Segurança e Saúde do Trabalho)
-- [Projeto 2](https://github.com/BiancoFialho/projeto2): Descrição do projeto 2
-- [Projeto 3](https://github.com/BiancoFialho/projeto3): Descrição do projeto 3
+- [Projeto 2](https://github.com/BiancoFialho/projeto2): Estudos de dados para a prevenção de riscos ocupacionais" (acidentes e doenças).
+- [Projeto 3](https://github.com/BiancoFialho/projeto3): IA - EHS
 
 ## 📫 Como me encontrar
 
